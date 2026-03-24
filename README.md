@@ -84,6 +84,7 @@ This progression allows users to understand not only how to use tools, but also 
 ---
 
 ## Repository Structure
+
 automatic-annotation-tutorials/
 │
 ├── notebooks/
