@@ -91,12 +91,12 @@ automatic-annotation-tutorials/
 │   ├── 01_gazetteer_gatenlp.ipynb
 │
 ├── data/
+│   ├── gazetteers (lexical resources + rules)/
 │   ├── sample_texts/
-│   ├── gazetteers/
 │
 ├── utils/
-│   ├── preprocessing.py
-│   ├── evaluation.py
+│   ├── (preprocessing.py)
+│   ├── (evaluation.py)
 │
 ├── README.md
 ```
