@@ -6,7 +6,7 @@ The tutorials focus on practical approaches to identifying and structuring lingu
 
 The overall perspective of this project is to support the development of accessible, reusable, and well-structured linguistic resources in the context of corpus linguistics and Digital Humanities, in line with initiatives such as the Clarin network and the Corli consortium.
 
----
+
 
 ## Objectives
 
@@ -18,7 +18,7 @@ This repository aims to:
 - support the creation of annotated corpora for research, teaching, and applied purposes
 - promote a "coding for inclusion" approach, where computational tools are used to improve accessibility and understanding of language data
 
----
+
 
 ## Intended Audience
 
@@ -103,7 +103,7 @@ automatic-annotation-tutorials/
 - `data/` will include example corpora and gazetteers
 - `utils/` will provide helper scripts when needed
 
----
+
 
 ## Requirements
 
@@ -116,7 +116,7 @@ If you prefer to run them locally, you will need:
 
 Each notebook specifies its own dependencies.
 
----
+
 
 ## Reusing and collaborating 
 
@@ -129,7 +129,7 @@ You are free to reuse, share and adapt the material, provided that you:
 - distribute any modifications under the same license
 
 
----
+
 
 ## Acknowledgements and Context
 
@@ -137,11 +137,11 @@ This repository is developed within the context of teaching and research in ling
 
 It contributes to a broader effort to make NLP and AI techniques accessible to non-specialists, and to support the creation of structured linguistic data for research and education.
 
----
+
 
 ## Related Programs and Infrastructures
 
-- Master in Linguistics: [Linguistique Informatique pour l’Inclusion et l’Accessibilité Numérique (LIIAN)](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-sciences-du-langage-MG002189/linguistique-informatique-pour-l-inclusion-et-l-accessibilite-numerique-MX002192.html)
+- Master's program in Linguistics (Université de Lille): [Linguistique Informatique pour l’Inclusion et l’Accessibilité Numérique (LIIAN)](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-sciences-du-langage-MG002189/linguistique-informatique-pour-l-inclusion-et-l-accessibilite-numerique-MX002192.html)
 
 - [CORLI (Consortium pour les Corpus, les Langues et les Interactions)](https://corli.huma-num.fr/fr/accueil-principal/)
 
