@@ -29,9 +29,9 @@ This material is intended for:
 - members of research infrastructures and consortia working with textual data
 - anyone interested in learning how NLP and AI can be used to annotate and structure texts
 
-No prior experience with Python is required. The notebooks are designed to be self-contained and progressively introduce key concepts.
+The notebooks are designed to be self-contained and progressively introduce key concepts and methods. 
 
----
+
 
 ## How to Use the Notebooks
 
@@ -51,7 +51,7 @@ Once opened in Colab:
 
 Each notebook includes installation steps for required libraries.
 
----
+
 
 ## Current Content
 
@@ -68,9 +68,6 @@ Additional tutorials will be added progressively, including:
 - weak supervision approaches (for example with Snorkel)
 - annotation using large language models
 
----
-
-## Pedagogical Approach
 
 The tutorials are organized to illustrate a progression from simple to more complex methods:
 
@@ -81,7 +78,7 @@ The tutorials are organized to illustrate a progression from simple to more comp
 
 This progression allows users to understand not only how to use tools, but also the underlying principles and trade-offs of each approach.
 
----
+
 
 ## Repository Structure
 ```
@@ -121,11 +118,11 @@ Each notebook specifies its own dependencies.
 
 ---
 
-## License
+## Reusing and collaborating 
 
-This project is distributed under the Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+This project is distributed under the MIT License.
 
-You are free to share and adapt the material, provided that you:
+You are free to reuse, share and adapt the material, provided that you:
 
 - give appropriate credit
 - do not use the material for commercial purposes
