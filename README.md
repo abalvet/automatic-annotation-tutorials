@@ -84,11 +84,21 @@ This progression allows users to understand not only how to use tools, but also 
 ---
 
 ## Repository Structure
-
+automatic-annotation-tutorials/
+│
 ├── notebooks/
+│   ├── 01_gazetteer_gatenlp.ipynb
+│
 ├── data/
+│   ├── sample_texts/
+│   ├── gazetteers/
+│
 ├── utils/
+│   ├── preprocessing.py
+│   ├── evaluation.py
+│
 ├── README.md
+
 
 
 - `notebooks/` contains the main tutorials
